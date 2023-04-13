@@ -6,6 +6,7 @@ This repository is a comprehensive collection of resources and documentation for
 
 - [NEAR Blockchain Docs 📚](#near-blockchain-docs-)
   - [Table of Contents](#table-of-contents)
+  - [Near Read materials](#near-read-materials)
   - [Getting Started](#getting-started)
   - [NEAR SDKs](#near-sdks)
   - [Smart Contract Examples](#smart-contract-examples)
@@ -14,6 +15,10 @@ This repository is a comprehensive collection of resources and documentation for
   - [Community and Support](#community-and-support)
   - [License](#license)
 
+
+## Near Read materials
+
+- [What is Near](./What-is-Near/Readme.md)
 ## Getting Started
 
 - [Official NEAR Protocol Documentation](https://docs.near.org/)
