@@ -67,3 +67,9 @@ Blockchain is like a 📜 scroll that contains a list of all the transactions th
 In a blockchain, we create a list of all transactions 📝 that happen in the system. This list acts like a shared database 🗃️ everyone can access. Each new transaction is added to the end of the list and can't be changed 🚫.
 
 We can think of this as a "decentralized event sourcing pattern" 🔗, where each transaction is like an event 🎉 that changes the system's state. By replaying these events in order 🔄, we can figure out the current state of the system at any point in time ⏳.
+
+🧱 Due to the distributed nature of a blockchain, there's no single 🖥️ server managing it. Instead, a 🤝 consensus mechanism is used to add new blocks, sync data between machines, and reward network participation. Different consensus mechanisms exist, but we'll cover them later.
+
+🔒 It's important to keep in mind that every transaction on the blockchain is publicly visible, so sensitive data should be 🔒 encrypted before being added to the blockchain.
+
+🧑‍💻 But how do we add transactions to the blockchain? That's where a Blockchain Node comes in. Everyone can set up their own node, connect to the ⚡ p2p blockchain network, and post new transactions. A node also provides access to the current blockchain data.
