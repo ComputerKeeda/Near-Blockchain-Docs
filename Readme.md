@@ -44,8 +44,9 @@ This repository is a comprehensive collection of resources and documentation for
 
 ## Tools and Utilities
 
-- [Gitpod for NEAR](https://gitpod.io/)
-- [Replit for NEAR](https://replit.com/)
+- [NEAR Protocol - Beginner's Guide To Understanding NEAR](https://www.youtube.com/watch?v=OEhL2B_qjCg)
+- [Build 3 JavaScript dApps in 26 minutes on NEAR Protocol](https://youtu.be/QYNyC6__pw8)
+- [BlockHeads Workshop 1: Intro to NEAR Part 1](https://www.youtube.com/watch?v=0ApSQ4YXZAE&t=9m19s)
 
 ## Community and Support
 
